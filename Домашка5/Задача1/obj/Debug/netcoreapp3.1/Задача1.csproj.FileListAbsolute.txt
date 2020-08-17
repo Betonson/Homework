@@ -1,0 +1,13 @@
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\bin\Debug\netcoreapp3.1\Задача1.exe
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\bin\Debug\netcoreapp3.1\Задача1.deps.json
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\bin\Debug\netcoreapp3.1\Задача1.runtimeconfig.json
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\bin\Debug\netcoreapp3.1\Задача1.runtimeconfig.dev.json
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\bin\Debug\netcoreapp3.1\Задача1.dll
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\bin\Debug\netcoreapp3.1\Задача1.pdb
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.csprojAssemblyReference.cache
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.AssemblyInfoInputs.cache
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.AssemblyInfo.cs
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.csproj.CoreCompileInputs.cache
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.dll
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.pdb
+D:\Program files\Codespace\Geekbrains\Homework\Домашка5\Задача1\obj\Debug\netcoreapp3.1\Задача1.genruntimeconfig.cache
