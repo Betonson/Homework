@@ -1,0 +1,7 @@
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\bin\Debug\Задача3.exe.config
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\bin\Debug\Задача3.exe
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\bin\Debug\Задача3.pdb
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\obj\Debug\Задача3.csprojAssemblyReference.cache
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\obj\Debug\Задача3.csproj.CoreCompileInputs.cache
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\obj\Debug\Задача3.exe
+C:\Users\bycant\Desktop\Codespace\GeekBrains\Homework\Задача3\Задача3\obj\Debug\Задача3.pdb
